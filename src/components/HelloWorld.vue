@@ -43,8 +43,8 @@ li {
 a {
   color: #42b983;
 }
-.hello 
-  border 1px solid red
-  .my 
-    background-color black  
+.hello
+    border 1px solid red
+    .my 
+        background-color black  
 </style>
